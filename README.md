@@ -18,7 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Example
 
 **Sample Input**
+
 ![Image](./assets/image.jpg)
 
 **Sample Output**
+
 ![ScreenShot](./assets/ScreenShot1.jpg)
