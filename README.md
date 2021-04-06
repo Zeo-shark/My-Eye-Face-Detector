@@ -1,4 +1,4 @@
-# myeye
+# My-Eye-Face-Detector
 
 A new Flutter project.
 
